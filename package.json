@@ -1,0 +1,14 @@
+{
+  "name": "bobbyb",
+  "version": "1.0.0",
+  "description": "the one true king",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Boomy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
